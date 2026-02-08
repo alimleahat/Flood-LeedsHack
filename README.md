@@ -12,7 +12,7 @@
 
 <br>
 
-`React` · `Node.js` · `Express` · `MongoDB Atlas` · `Gemini AI` · `Google Directions` · `UK Environment Agency API`
+`React` · `Node.js` · `Express` · `MongoDB Atlas` · `Gemini AI` · `OpenStreetMap` · `UK Environment Agency API`
 
 ---
 
@@ -183,4 +183,5 @@ Theme: *Systems Rebooted*
 <br>
 
 </div>
+
 
